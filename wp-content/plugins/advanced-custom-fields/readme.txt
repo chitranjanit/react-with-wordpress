@@ -1,4 +1,4 @@
-=== Advanced Custom Fields Pro ===
+=== Advanced Custom Fields ===
 Contributors: elliotcondon
 Tags: acf, advanced, custom, field, fields, form, repeater, content
 Requires at least: 4.7.0
